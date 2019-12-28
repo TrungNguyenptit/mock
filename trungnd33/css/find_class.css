@@ -1,0 +1,12 @@
+.class_table {
+    width: 100%;
+}
+
+thead tr th {
+    background-color: #6772E5 !important;
+    color: white !important;
+}
+
+.card-title {
+    color: #8898aa;
+}
