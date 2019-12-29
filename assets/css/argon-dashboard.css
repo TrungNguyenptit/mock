@@ -258,6 +258,9 @@ caption {
   caption-side: bottom;
 }
 
+.checked {
+  color: orange;
+}
 th {
   text-align: inherit;
 }
